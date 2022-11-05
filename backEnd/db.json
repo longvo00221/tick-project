@@ -1,0 +1,82 @@
+{   
+      "all":[
+        { "id": 1,"title":"coffee", "nameId": "espresso","name":"Cà Phê Đen Gu Tick","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"25."},
+        { "id": 2,"title":"coffee", "nameId": "brown-coffee","name":"Cà Phê Nâu","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"29."},
+        { "id": 3,"title":"coffee", "nameId": "milk_coffee","name":"Bạc Xỉu","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"32."},
+        { "id": 4,"title":"coffee", "nameId": "candy_coffee","name":"Cà Phê Kẹo","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"29."},
+        { "id": 5,"title":"coffee", "nameId": "egg_coffee","name":"Cà Phê Trứng","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35."},
+        { "id": 6,"title":"coffee", "nameId": "matcha_coffee","name":"Cà Phê Trà Xanh","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45."},
+        { "id": 7,"title":"coffee", "nameId": "cacao_coffee","name":"Cacao Sữa Đá","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30."},
+        { "id": 8,"title":"coffee", "nameId": "water_coffee","name":"Americano","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30."},
+        { "id": 9,"title":"coffee", "nameId": "caramel_coffee","name":"Caramel Tick Cà Phê","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45."},
+        { "id": 10,"title":"coffee", "nameId": "egg_cacao","name":"Cacao Trứng","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35."},
+
+        { "id": 11,"title":"tea" ,"nameId": "atiso_tea", "name": "Trà Atiso Quả Mọng","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 12,"title":"tea" ,"nameId": "pitaya_tea", "name": "Trà Thanh Long Việt Quất","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"42." },
+        { "id": 13,"title":"tea" ,"nameId": "guava_tea", "name": "Trà Ổi Xá Lị","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 14,"title":"tea" ,"nameId": "lichi_rose_tea", "name": "Trà Vải Hoa Hồng","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"50." },
+        { "id": 15,"title":"tea" ,"nameId": "pineapple_tea", "name": "Trà Lài Đác Thơm","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"50." },
+        { "id": 16,"title":"tea" ,"nameId": "apple_tea", "name": "Trà Táo Nhiệt Đới","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 17,"title":"tea" ,"nameId": "herb_tea", "name": "Trà Vải Thảo Mộc","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"47." },
+       
+
+        { "id": 18,"title":"milktea" ,"nameId": "traditional_milktea", "name": "Trà Sữa Truyền Thống","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." },
+        { "id": 19,"title":"milktea" ,"nameId": "tick_milktea", "name": "Trà Sữa Tick","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+        { "id": 20,"title":"milktea" ,"nameId": "olong_milktea-1", "name": "Trà Sữa Olong Rang","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+        { "id": 21,"title":"milktea" ,"nameId": "olong_milktea-2", "name": "Trà Sữa Olong Lá Dứa","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." },
+        { "id": 22,"title":"milktea" ,"nameId": "bambooCharcoal_milktea", "name": "Trà Sữa Than Tre Machiato","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45." },
+        { "id": 23,"title":"milktea" ,"nameId": "taro_milktea", "name": "Sữa Tươi Khoai Môn","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." },
+        { "id": 24,"title":"milktea" ,"nameId": "blackSugar_milktea", "name": "Sữa Tươi Trân Châu Đường Đen","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+        { "id": 25,"title":"milktea" ,"nameId": "matchaBlackSugar_milktea", "name": "Matcha Đường Đen","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"37." },
+
+        { "id": 26,"title":"iceblend" ,"nameId": "chocolate_iceblend", "name": "Cacao Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." },
+        { "id": 27,"title":"iceblend" ,"nameId": "caramel_iceblend", "name": "Caramel Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+        { "id": 28,"title":"iceblend" ,"nameId": "bluebery_iceblend", "name": "Việt Quất Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+        { "id": 29,"title":"iceblend" ,"nameId": "cacao_iceblend", "name": "Cacao Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." },
+        { "id": 30,"title":"sweetSoup", "nameId": "kb_gruel", "name": "Chè Khúc Bạch Thập Cẩm","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." }
+
+    ],
+    "coffee": [
+      { "id": 1,"title":"coffee", "nameId": "espresso","name":"Cà Phê Đen Gu Tick","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"25."},
+      { "id": 2,"title":"coffee", "nameId": "brown-coffee","name":"Cà Phê Nâu","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"29."},
+      { "id": 3,"title":"coffee", "nameId": "milk_coffee","name":"Bạc Xỉu","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"32."},
+      { "id": 4,"title":"coffee", "nameId": "candy_coffee","name":"Cà Phê Kẹo","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"29."},
+      { "id": 5,"title":"coffee", "nameId": "egg_coffee","name":"Cà Phê Trứng","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35."},
+      { "id": 6,"title":"coffee", "nameId": "matcha_coffee","name":"Cà Phê Trà Xanh","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45."},
+      { "id": 7,"title":"coffee", "nameId": "cacao_coffee","name":"Cacao Sữa Đá","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30."},
+      { "id": 8,"title":"coffee", "nameId": "water_coffee","name":"Americano","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30."},
+      { "id": 9,"title":"coffee", "nameId": "caramel_coffee","name":"Caramel Tick Cà Phê","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45."},
+      { "id": 10,"title":"coffee", "nameId": "egg_cacao","name":"Cacao Trứng","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35."}
+    ],
+
+    "tea": [
+      { "id": 11,"title":"tea" ,"nameId": "atiso_tea", "name": "Trà Atiso Quả Mọng","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 12,"title":"tea" ,"nameId": "pitaya_tea", "name": "Trà Thanh Long Việt Quất","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"42." },
+        { "id": 13,"title":"tea" ,"nameId": "guava_tea", "name": "Trà Ổi Xá Lị","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 14,"title":"tea" ,"nameId": "lichi_rose_tea", "name": "Trà Vải Hoa Hồng","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"50." },
+        { "id": 15,"title":"tea" ,"nameId": "pineapple_tea", "name": "Trà Lài Đác Thơm","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"50." },
+        { "id": 16,"title":"tea" ,"nameId": "apple_tea", "name": "Trà Táo Nhiệt Đới","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"45." },
+        { "id": 17,"title":"tea" ,"nameId": "herb_tea", "name": "Trà Vải Thảo Mộc","image":"https://product.hstatic.net/200000505067/product/tra_berry-01-1_3723573396554b4ba5b8947eb978b846_grande.png","price":"47." }
+    ],
+
+    "milktea": [
+      { "id": 18,"title":"milktea" ,"nameId": "traditional_milktea", "name": "Trà Sữa Truyền Thống","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." },
+      { "id": 19,"title":"milktea" ,"nameId": "tick_milktea", "name": "Trà Sữa Tick","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+      { "id": 20,"title":"milktea" ,"nameId": "olong_milktea-1", "name": "Trà Sữa Olong Rang","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+      { "id": 21,"title":"milktea" ,"nameId": "olong_milktea-2", "name": "Trà Sữa Olong Lá Dứa","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." },
+      { "id": 22,"title":"milktea" ,"nameId": "bambooCharcoal_milktea", "name": "Trà Sữa Than Tre Machiato","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"45." },
+      { "id": 23,"title":"milktea" ,"nameId": "taro_milktea", "name": "Sữa Tươi Khoai Môn","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." },
+      { "id": 24,"title":"milktea" ,"nameId": "blackSugar_milktea", "name": "Sữa Tươi Trân Châu Đường Đen","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+      { "id": 25,"title":"milktea" ,"nameId": "matchaBlackSugar_milktea", "name": "Matcha Đường Đen","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"37." }
+      ],
+
+   "iceblend": [
+    { "id": 26,"title":"iceblend" ,"nameId": "chocolate_iceblend", "name": "Cacao Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." },
+    { "id": 27,"title":"iceblend" ,"nameId": "caramel_iceblend", "name": "Caramel Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+    { "id": 28,"title":"iceblend" ,"nameId": "bluebery_iceblend", "name": "Việt Quất Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"35." },
+    { "id": 29,"title":"iceblend" ,"nameId": "cacao_iceblend", "name": "Cacao Đá Xay","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"38." }
+      ],
+      "sweetsoup": [
+        { "id": 30,"title":"sweetSoup", "nameId": "kb_gruel", "name": "Chè Khúc Bạch Thập Cẩm","image":"https://product.hstatic.net/200000505067/product/americano-01_c13cfaf2582442768a086dbcfd23a704_grande.png","price":"30." }
+      ]
+  }
